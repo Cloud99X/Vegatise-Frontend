@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093917437851",
+    "project_id": "vegatise-1bad9",
+    "storage_bucket": "vegatise-1bad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093917437851:android:e84c0e104e684b09c63b3e",
+        "android_client_info": {
+          "package_name": "com.vegatise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7L4yeHc0fMyYyarMI4GXYdcsdwOoNx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
